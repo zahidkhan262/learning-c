@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639044394 source:z:\c-learning\clearning\ifelse.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
