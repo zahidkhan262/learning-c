@@ -19,7 +19,7 @@ int main()
         }
 
     }else{
-        printf("%d Opps! You are not eligible for voting your",age, "below 18");
+        printf("%d Opps You are not eligible for voting your",age, "below 18");
     }
 
 
